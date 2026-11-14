@@ -1,6 +1,8 @@
 package com.krdrx.systemcontrol
 
 import android.app.Activity
+import android.app.AlertDialog
+import android.content.pm.PackageManager
 import android.os.Bundle
 import android.graphics.Color
 import android.view.Gravity
