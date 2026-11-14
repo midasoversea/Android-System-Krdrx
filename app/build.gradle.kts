@@ -7,7 +7,7 @@ android {
     compileSdk = 35
     defaultConfig {
         applicationId = "com.krdrx.systemcontrol"
-        minSdk = 23
+        minSdk = 24
         targetSdk = 32
         versionCode = 1
         versionName = "1.0.0"
